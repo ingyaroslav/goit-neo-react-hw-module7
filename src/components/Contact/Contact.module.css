@@ -1,0 +1,10 @@
+.label {
+  margin: 0;
+  text-align: left;
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  border: 1px solid black;
+}
